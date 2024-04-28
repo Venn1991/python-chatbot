@@ -20,8 +20,8 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone 
-   cd python-chatbot
+   git clone https://github.com/Venn1991/python-chatbot.git
+   cd python-chatbot 
 
 2. **Install Dependencies:**
     ```bash
